@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kn.trem</title>
+    <link rel="stylesheet" href="formulario.css">
+</head>
+<body>
+    <h1>aqui só tem produtos do bom</h1>
+
+    <form>
+<p>
+    nome:<input type="text" nome="nome" id="nome"></p>
+<p> sobrenome:<input type="text" nome="sobrenome"  id="nome"> </p>
+<p>idade:<input type="date" nome="nascimento" id="idade">
+<p>Email:<input type="email" nome="Email" id="Email"></p>
+<p>mensagem:<input type="text" nome="sua mensagem" id="mensagem"></p>
+<p>endereço:<input type="text" nome="text" id="texto"></p>
+
+
+<p>enviar:<input type="submit" nome="enviar" id="enviar"> </p>
+
+    </form>
+</body>
+</html>
